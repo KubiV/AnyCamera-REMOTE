@@ -18,13 +18,13 @@ sudo apt-get install gphoto2
 
 - Print a [case]
 - Add power switch, battery, Li-Io charging circuit, step-up boost board to 5,1 V and micro USB to USB A adapter
+<p/>
 
 <img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_2.jpg?raw=true" alt="component position in a case" height="300" align="left"/>
 <img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_1.jpg?raw=true" alt="assembled case" height="300" align="left"/>
 <p>
-
 - Hello
-
+<p/>
 
 [gPhoto2]: <http://gphoto.org>
 [Raspberry Pi Imager]: <https://www.raspberrypi.com/software/>
