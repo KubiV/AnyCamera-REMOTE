@@ -19,9 +19,11 @@ sudo apt-get install gphoto2
 - Print a [case]
 - Add power switch, battery, Li-Io charging circuit, step-up boost board to 5,1 V and micro USB to USB A adapter
 
+<div>
 <img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_2.jpg?raw=true" alt="component position in a case" height="300" align="left"/>
 <p></p>
 <img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_1.jpg?raw=true" alt="assembled case" height="300" align="left"/>
+</div>
 
 <br></br>
 
