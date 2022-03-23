@@ -3,6 +3,7 @@
 
 AnyCamera REMOTE is a wired camera remote wich is using [gPhoto2] and a Raspberry Pi. Power the Pi, attach a button to Pi's GPIO and with a USB cable connect camera to Pi. Start taking photos with external button.  
 
+*****
 ## Installation
 
 - Using [Raspberry Pi Imager] (and Ctrl-Shift-X command) set up SSH and install Raspberry Pi OS Lite on a Raspberry Pi computer.
@@ -27,12 +28,12 @@ sudo apt-get install gphoto2
 
 <br></br>
 
-<div>
+*****
 ## Connecting the button
 
 <img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_4.jpg?raw=true" alt="button connection" height="300" align="left"/>
 <a href="https://pinout.xyz"><img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_pinout.png?raw=true" alt="raspberry pi pinout" height="300" align="left"/></a>
-</div>
+
 
 
 [gPhoto2]: <http://gphoto.org>
