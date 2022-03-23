@@ -13,11 +13,18 @@ sudo apt-get install gphoto2
 - Create a "Scripts" folder and add script [p.py] using [GNU Nano] (location: /home/pi/Scripts/p.py) and SSH
 - Edit rc.local file: add "sudo python3 /home/pi/Scripts/p.py &" that will make run the script after Raspberry Pi boots up
 
-<img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/rclocal_image.png?raw=true" alt="rc.local file opened in text editor" width="200"/>
+<img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/rclocal_image.png?raw=true" alt="rc.local file opened in text editor" width="500"/>
 
+- Print a [case]
+- Add power switch, battery, Li-Io charging circuit, step-up boost board to 5,1 V and micro USB to USB A adapter
+
+<img src="" alt="components position in a case" width="500"/>
+
+- 
 
 
 [gPhoto2]: <http://gphoto.org>
 [Raspberry Pi Imager]: <https://www.raspberrypi.com/software/>
 [p.py]: <https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Code/p.py>
 [GNU Nano]: <https://www.nano-editor.org>
+[case]: <https://www.prusaprinters.org/cs/prints/153947-box-for-raspberry-pi-zero-battery-and-buttons/files>
