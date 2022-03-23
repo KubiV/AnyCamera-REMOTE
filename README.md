@@ -21,7 +21,7 @@ sudo apt-get install gphoto2
 <img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_2.jpg?raw=true" alt="component position in a case" height="300" align="left"/>
 <img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_1.jpg?raw=true" alt="assembled case" height="300" align="left"/>
 
-- 
+- Hello
 
 
 [gPhoto2]: <http://gphoto.org>
