@@ -13,7 +13,7 @@ sudo apt-get install gphoto2
 - Create a "Scripts" folder and add script [p.py] using [GNU Nano] (location: /home/pi/Scripts/p.py) and SSH
 - Edit rc.local file: add "sudo python3 /home/pi/Scripts/p.py &" that will make run the script after Raspberry Pi boots up
 
-<img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/rclocal_image.png?raw=true" alt="rc.local file opened in text editor" width="200"/>
+<img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/rclocal_image.png?raw=true" alt="rc.local file opened in text editor" width="500"/>
 
 
 - Print a [case]
@@ -23,7 +23,7 @@ sudo apt-get install gphoto2
 <p></p>
 <img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_1.jpg?raw=true" alt="assembled case" height="300" align="left"/>
 
-<p></p>
+<br></br>
 
 ## Connecting the button
 
