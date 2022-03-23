@@ -14,17 +14,19 @@ sudo apt-get install gphoto2
 - Edit rc.local file: add "sudo python3 /home/pi/Scripts/p.py &" that will make run the script after Raspberry Pi boots up
 
 <img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/rclocal_image.png?raw=true" alt="rc.local file opened in text editor" width="500"/>
-<p>
 
 - Print a [case]
 - Add power switch, battery, Li-Io charging circuit, step-up boost board to 5,1 V and micro USB to USB A adapter
-<p/>
 
 <img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_2.jpg?raw=true" alt="component position in a case" height="300" align="left"/>
 <img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_1.jpg?raw=true" alt="assembled case" height="300" align="left"/>
-<p>
-- Hello
-<p/>
+
+## Connecting the button
+
+<img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_4.jpg?raw=true" alt="button connection" height="300" align="left"/>
+<img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_pinout.jpg?raw=true" alt="button connection" height="300" align="left"/>
+
+
 
 [gPhoto2]: <http://gphoto.org>
 [Raspberry Pi Imager]: <https://www.raspberrypi.com/software/>
