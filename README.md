@@ -33,7 +33,6 @@ sudo apt-get install gphoto2
 <a href="https://pinout.xyz"><img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_pinout.png?raw=true" alt="raspberry pi pinout" height="300" /></a>
 <img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_4.jpg?raw=true" alt="button connection" height="300" style="float: left;"/>
 
-## ende
 
 [gPhoto2]: <http://gphoto.org>
 [Raspberry Pi Imager]: <https://www.raspberrypi.com/software/>
