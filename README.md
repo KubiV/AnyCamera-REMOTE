@@ -24,7 +24,7 @@ sudo apt-get install gphoto2
 ## Connecting the button
 
 <img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_4.jpg?raw=true" alt="button connection" height="300" align="left"/>
-<img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_pinout.jpg?raw=true" alt="button connection" height="300" align="left" href="https://pinout.xyz"/>
+<a href="https://pinout.xyz"><img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_pinout.png?raw=true" alt="button connection" height="300" align="left"/></a>
 
 
 
