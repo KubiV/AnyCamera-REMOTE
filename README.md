@@ -24,6 +24,7 @@ sudo apt-get install gphoto2
 <img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_1.jpg?raw=true" alt="assembled case" height="300" align="left"/>
 
 <p></p>
+
 ## Connecting the button
 
 <img src="https://github.com/Kub1V/AnyCamera-REMOTE/blob/main/Images/img_4.jpg?raw=true" alt="button connection" height="300" align="left"/>
